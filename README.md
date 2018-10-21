@@ -2,12 +2,12 @@
 Analizirala bom rume s spletne strani https://www.rumratings.com/brands.
 
 Za vsak rum bom zajela:
-• name 
-• country  
-• type
-• ratings
-• price
-• rating
+* name 
+* country  
+* type
+* ratings
+* price
+* rating
 
 Hipoteze:
 * Kakšna je odvisnost cene ruma od države in stila?
