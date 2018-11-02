@@ -13,4 +13,4 @@ Hipoteze:
 * Kakšna je odvisnost cene ruma od države in stila?
 * Povprečno število rumov na državo?
 * Kateri rumi so najbolje ocenjeni rumi?
-* Kateri rumI bi predstavljalI najboljši nakup?
+* Kateri rumi bi predstavljali najboljši nakup?
